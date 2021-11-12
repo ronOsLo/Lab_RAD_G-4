@@ -1,0 +1,10 @@
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\bin\Debug\Grupo4LaboratorioRAD.exe.config
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\bin\Debug\Grupo4LaboratorioRAD.exe
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\bin\Debug\Grupo4LaboratorioRAD.pdb
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.csprojAssemblyReference.cache
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.Form1.resources
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.Properties.Resources.resources
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.csproj.GenerateResource.cache
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.csproj.CoreCompileInputs.cache
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.exe
+C:\Users\rlopez\source\repos\Grupo4LaboratorioRAD\obj\Debug\Grupo4LaboratorioRAD.pdb
